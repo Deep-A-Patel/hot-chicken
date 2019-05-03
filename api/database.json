@@ -1,0 +1,36 @@
+{
+  "chicken": [
+    {
+      "id": 1,
+      "name": "Joe Thighsmen",
+      "gender": "male",
+      "color": "blue",
+      "spicelevel": "3",
+      "purchased": true
+    },
+    {
+      "id": 2,
+      "name": "Roo Roo",
+      "gender": "male",
+      "color": "green",
+      "spicelevel": 1,
+      "purchased": true
+    },
+    {
+      "id": 3,
+      "name": "Kicken",
+      "gender": "female",
+      "color": "orange",
+      "spicelevel": 3,
+      "purchased": false
+    },
+    {
+      "name": "Cocky Balboa",
+      "color": "purple",
+      "gender": "female",
+      "spicelevel": "3",
+      "id": 4,
+      "purchased": false
+    }
+  ]
+}
